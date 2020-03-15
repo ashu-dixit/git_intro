@@ -1,5 +1,2 @@
-function greete(name) {
-    console.log('hi ' + name)
-}
-
-greete('Ashu')
+console.log('hey we are learnig git')
+console.log('use "git status" to check status')
